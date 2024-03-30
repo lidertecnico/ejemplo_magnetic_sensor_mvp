@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ejemplo magnetic sensor mvp</string>
+    <string name="magnetic_field">Magnetic Field:</string>
+    <string name="magnetic_field_x">Magnetic field X:</string>
+    <string name="magnetic_field_y">Magnetic field Y:</string>
+    <string name="magnetic_field_z">Magnetic field Z:</string>
+    <string name="acceleration_magnitude">Acceleration Magnitude:</string>
+    <string name="acceleration_x">Acceleration X:</string>
+    <string name="acceleration_y">Acceleration Y:</string>
+    <string name="acceleration_z">Acceleration Z:</string>
+    <string name="start_magnetic_sensor">Start Magnetic Sensor</string>
+    <string name="start_accelerometer">Start Accelerometer</string>
+</resources>
